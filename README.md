@@ -3,8 +3,8 @@ A unix-style command line tool to look up counties from Montana license plates.
 
 To install, run:
 ```bash
-git clone https://github.com/me/repo
-cd repo
+git clone https://github.com/jforseth210/MontanaPlateCountyLookup
+cd MontanaPlateCountyLookup
 python main.py 1-12345
 ```
 
